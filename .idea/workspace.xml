@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29588e60-f16a-49af-8872-c46e7e7176d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/ascii_conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/encode_base64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/great_snakes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/hex_to_bytes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/int_string_xor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/int_to_msg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/know_dont.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/last_xor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/xor_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modular Arithmetic/euclidian_interchanging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modular Arithmetic/extended_euclidian.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic/modular_binomial.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VaFSChW5Zv35JhAHBUU1ADpb4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;recovered-branch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29588e60-f16a-49af-8872-c46e7e7176d3" name="Changes" comment="" />
+      <created>1695066282395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695066282395</updated>
+      <workItem from="1695066285584" duration="409000" />
+      <workItem from="1695229865924" duration="2452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CryptoHack$modular_arithmetic2.coverage" NAME="modular_arithmetic2 Coverage Results" MODIFIED="1695230284153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$modular_square_root.coverage" NAME="modular_square_root Coverage Results" MODIFIED="1695230962381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$chinese_remainder.coverage" NAME="chinese_remainder Coverage Results" MODIFIED="1695231022818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$extended_gcd.coverage" NAME="extended_gcd Coverage Results" MODIFIED="1695229995502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$modular_inverting.coverage" NAME="modular_inverting Coverage Results" MODIFIED="1695230345412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$quadratic_residues.coverage" NAME="quadratic_residues Coverage Results" MODIFIED="1695230870827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$modular_binomial.coverage" NAME="modular_binomial Coverage Results" MODIFIED="1695231100677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$modular_arithmetic1.coverage" NAME="modular_arithmetic1 Coverage Results" MODIFIED="1695230195195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$legendre_symbol.coverage" NAME="legendre_symbol Coverage Results" MODIFIED="1695230919260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+    <SUITE FILE_PATH="coverage/CryptoHack$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1695066593183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CryptoHack$adriens_challenge.coverage" NAME="adriens_challenge Coverage Results" MODIFIED="1695231070164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModularAritmetic/Cryptohack-ModularAritmetic" />
+  </component>
+</project>
